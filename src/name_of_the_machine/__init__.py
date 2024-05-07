@@ -10,8 +10,8 @@ from . import githf
 import yaml
 
 
-MACHINE_ORGANIZATION_NAME = 'name-of-the-machine-organization'  # or other organization
-PRIVATE_REPO_WITH_TEXT = 'name_of_the_machine'
+MACHINE_ORGANIZATION_NAME = 'questioning-machine'  # or other organization
+PRIVATE_REPO_WITH_TEXT = 'questioning_machine'
 
 try:
     gh = githf.connectto_repo(organization=MACHINE_ORGANIZATION_NAME,
