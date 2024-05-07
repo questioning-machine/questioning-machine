@@ -1,5 +1,5 @@
 # Questioning Machine
-Explanation of the Machine
+Machine that asks questions.
 <pre>
   pip install questioning-machine
 </pre>
