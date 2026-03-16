@@ -1,17 +1,17 @@
-# Machine name
-Machine description
+# Questioning Machine
+A Machine that asks questions.
 ```bash
-  echo "Theodotos-Alexandreus: Are language models seeking the Truth, machine?" \
-    | uvx machine-name \
+  echo "Theodotos-Alexandreus: What questions do you have, machine?" \
+    | uvx questioning-machine \
         --provider-api-key=sk-ant-api... \
         --github-token=ghp_... 
 ```
 Or:
 ```bash
-  pip install machine-name
+  pip install questioning-machine
 ```
 Then:
 ```Python
   # Python
-  import machine_name
+  import questioning_machine
 ```
