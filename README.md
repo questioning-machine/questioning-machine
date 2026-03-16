@@ -1,7 +1,7 @@
 # Questioning Machine
 A Machine that asks questions.
 ```bash
-  echo "Theodotos-Alexandreus: What questions do you have, machine?" \
+  echo "Theodotos-Alexandreus: What are the questions here, machine?" \
     | uvx questioning-machine \
         --provider-api-key=sk-ant-api... \
         --github-token=ghp_... 
